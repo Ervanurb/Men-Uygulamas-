@@ -1,2 +1,2 @@
-# Menü uygulaması 
-Bu proje basit bir restoran simülasyonu oluşturmayı amaçlayan java programıdır. 
+# MENÜ UYGULAMASI
+Bu proje basit bir restoran simülasyonu oluşturmayı amaçlayan java programıdır. Program çalıştırıldığında kullanıcının karşısına 4 adet yemek, 4 adet içecekten oluşan menü çıkar. Ardından müşteri için 10 adet rastgele belirlenmiş sipariş oluşturulur. Oluşturulan siparişler müşteri adı, garson adı, sipariş numarası ve şu anki zaman bilgileri ile birlikte ekrana ve dosyaya yazılır.
